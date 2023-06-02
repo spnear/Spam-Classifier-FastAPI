@@ -1,0 +1,8 @@
+/fastapi_env
+/notebooks
+train_model.py
+project_structure.txt
+/venv/
+/data
+/vectors
+/packages
